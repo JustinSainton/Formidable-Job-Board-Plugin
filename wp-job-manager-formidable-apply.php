@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP Job Manager - Apply With Formidable Forms
- * Plugin URI:  https://github.com/Astoundify/wp-job-manager-gravityforms-apply/
+ * Plugin URI:  https://github.com/Astoundify/wp-job-manager-formidable-apply/
  * Description: Apply to jobs that have added an email address via Formidable Forms
  * Author:      Astoundify
  * Author URI:  http://astoundify.com
@@ -130,7 +130,7 @@ class Astoundify_Job_Manager_Apply_Formidable {
 	}
 
 	/**
-	 * Add a setting in the admin panel to enter the ID of the Gravity Form to use.
+	 * Add a setting in the admin panel to enter the ID of the Formidable Form to use.
 	 *
 	 * @since WP Job Manager - Apply with Formidable Forms 1.0
 	 *
